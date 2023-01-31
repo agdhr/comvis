@@ -1,5 +1,5 @@
 # cvs
-Computer Vision for Pattern Recognition
+Computer Vision for Coffee Bean Classification
 
 - Crop raw image into m x m size
 - Increase or decrease image size
